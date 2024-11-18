@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Yubo Chen  陈玉博</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="dist/css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="theme.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body role="document">
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Yubo's Homepage</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container theme-showcase" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="row">
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+      <div class="row">
+        <div class="jumbotron col-md-9">
+          <div class="row">
+            <div class="col-md-4">
+              <img class="img-polaroid" src="yubochenData/yubochen.jpg" align="Left" alt="" width="205" height="260"/>
+            </div>
+            <div class="col-md-8">
+              <img src="yubochenData/name.jpg" alt="" style="vertical-align:top;" width="400"/>
+              <h3>Associate Professor</h3>
+              <a href="http://www.nlpr.ia.ac.cn/cip/english/introduction.htm">Research Group of Speech and Language Technology,</a><br />
+              <a href="http://www.nlpr.ia.ac.cn/">National Laboratory of Pattern Recognition,</a><br />
+              <a href="http://www.ia.ac.cn/">Institute of Automation, Chinese Academy of Sciences</a>
+              <address>
+                <strong>Office: </strong>
+                Room 711, Intelligence Building, Institute of Automation, Chinese Academy of Sciences, Zhongguancun East Road 95#, Beijing, China, 100190<br>
+                <strong>Email: </strong>
+                <a href="mailto:yubo.chen@nlpr.ia.ac.cn">yubo.chen(at)nlpr(dot)ia(dot)ac(dot)cn</a><br>
+              </address>
+            </div>
+          </div>
+          <br>
+          
+          <div class="well">
+					I am an Assistant Researcher in <a href="http://www.nlpr.ia.ac.cn/">National Laboratory of Pattern Recognition (NLPR)</a>, <a href="http://www.ia.ac.cn/">Institute of Automation, Chinese Academy of Sciences</a>. I was born in 1990. I obtained my Ph.D. in Computer Science from NLPR in 2017. My advisor is Prof. <a href="http://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html">Jun Zhao</a>. I have broad interests in  <strong>Event Extraction </strong>,  <strong>Relation Extraction </strong>,  <strong>Entity Disambiguation </strong> and  <strong>Knowledge Graph Construction </strong>. 
+          </div> 
+   
+        </div>
+        <div class="col-md-3 blog-sidebar">
+          <div class="page-header">
+            <h1><span class="label label-primary">News</span></h1>
+          </div>      
+              <p>I have two papers accepted by ACL 2017.</p><hr>   
+              <p>I have one paper accepted by ACL 2016.</p><hr>
+              <p>I have one paper accepted by CCL 2016 & NLP-NABD 2016.</p><hr>
+              <p>I have one paper accepted by ACL 2015.</p><hr>
+          <div id="clustrmaps-widget">
+                </div>
+                <script type="text/javascript">var _clustrmaps = {'url' : 'http://www.nlpr.ia.ac.cn/cip/~liukang/index.html', 'user' : 1089115, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-04-11', 'lang' : 'zh', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script>
+                <noscript><a href="http://www2.clustrmaps.com/user/e38109e5b"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.nlpr.ia.ac.cn-cip-liukang.htm-thumb.jpg" alt="Locations of visitors to this page" /></a>
+                </noscript>       
+        </div>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/docs.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
